@@ -1,4 +1,4 @@
-const products = document.querySelectorAll(".product");
+alert("JavaScript شغال");     const products = document.querySelectorAll(".product");
 const invoiceBody = document.getElementById("invoiceBody");
 const totalPrice = document.getElementById("totalPrice");
 const discount = document.getElementById("discount");
